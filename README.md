@@ -9,9 +9,6 @@ To this day, Art (in a very general manner) and Computer Science are the two fie
 
 - Building the first version of a website for a french painter and illustrator using Svelte and Typescript. It's primary use will be showcasing the artist work and the news related to her.
 
-- Building another website for a yearly hackathon "Bourse Coddity" with one goal : making the IPCC's climate reports as accessible as possible through various means (Dataviz, Interactive maps, etc.). Started using threejs to build a 3d interactable website (Other technologies are to be decided)
-
-
 <!--
 **Miisterfox/Miisterfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
