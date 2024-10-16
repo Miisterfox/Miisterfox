@@ -1,14 +1,10 @@
 # About me
 
-I am a 20 years old computer science student currently located in Paris, France.
-Since my youngest age, I love learning new things and getting passionnate with about anything I discover.
+23 years old currently living in Nagoya, Japan for a 6 months exchange program doing research.
+I'll be studying satellite imagery for forest monitoring and accurate tree-specific detection using multi-source data.
 
-To this day, Art (in a very general manner) and Computer Science are the two fields in which I thrive. 
 
-## What I am currently working on
-
-- Building the first version of a website for a french painter and illustrator using Svelte and Typescript. It's primary use will be showcasing the artist work and the news related to her.
-
+Art (in a very general manner) and Computer Science are the two fields that nurture my ape brain. 🐒
 <!--
 **Miisterfox/Miisterfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
